@@ -6,6 +6,9 @@
 - 📫 How to reach me? Send me an Email [here](mailto:adam_latimer@outlook.com)
 - ⚡ Fun fact: You never Quit OSRS you just take a break.
 
+  ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-latimer-147349221/)
+
 ## 🧰 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
