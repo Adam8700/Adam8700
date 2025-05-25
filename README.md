@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Adam!👋
 
 
 - 🔭 I’m working on school projects and personal websites
